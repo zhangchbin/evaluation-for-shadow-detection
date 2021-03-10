@@ -1,5 +1,8 @@
 ### Evaluation-for-Shadow-Detection
-Evaluation for shadow detection, pytorch.
+This is a Pytorch implementation of evaluation for shadow detection.
+This code contains metrics:
+
+
 ### Enviroment requires
 pytorch >= 1.0
 ### Run
