@@ -6,6 +6,8 @@ This code contains metrics: BER, P-Error, N-Error and ACC.
 pytorch >= 1.0
 
 ### Run
-'''python main.py --result_dir 'your result dir' --gt_dir 'your gt dir' '''
+```
+python main.py --result_dir <results_folder> --gt_dir <gt_folder>
+```
 ### Note
-You should put all the detection results in a dir, and its name should be the same as gt.
+You should put all the detection results into a dir, and the names of results should be the same as ground-truth.
