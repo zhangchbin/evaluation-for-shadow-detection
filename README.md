@@ -10,4 +10,4 @@ pytorch >= 1.0
 python main.py --result_dir <results_folder> --gt_dir <gt_folder>
 ```
 ### Note
-You should put all the detection results into a dir, and the names of results should be the same as ground-truth.
+You should put all the detection results into <results_folder>, and the names of results should be the same as ground-truth.
